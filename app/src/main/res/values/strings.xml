@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SECU-SPACE</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="please_enter_username">Please Enter Username</string>
+</resources>

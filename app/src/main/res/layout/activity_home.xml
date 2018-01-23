@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.saipc.ashish.instareplica.HomeActivity">
+    <!--<LinearLayout-->
+        <!--android:background="#00695C"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content">-->
+        <!--<TextView-->
+            <!--android:padding="5dp"-->
+            <!--android:textColor="#A7FFEB"-->
+            <!--android:textSize="22sp"-->
+            <!--android:textStyle="bold"-->
+            <!--android:gravity="center_vertical"-->
+            <!--android:drawableLeft="@mipmap/ic_launcher"-->
+            <!--android:text="SECU-SPACE"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content" />-->
+    <!--</LinearLayout>-->
+    <ListView
+        android:id="@+id/lstView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    </ListView>
+
+    
+
+</LinearLayout>
